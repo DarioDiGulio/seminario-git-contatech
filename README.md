@@ -10,3 +10,5 @@
 4. Crear una nueva rama y repetir el paso anterior, generando un Pull Request.
 5. Revistar el PR desde Github web y mergear los cambios.
 6. Probar la generación y resolución de conflictos.
+
+## Aguante contatech
