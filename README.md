@@ -1,1 +1,1 @@
-# seminario-git-contatech
+# Seminario de git en contatech
